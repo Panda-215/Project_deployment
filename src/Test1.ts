@@ -4,7 +4,7 @@ const unit_test = async() =>{
 
 
 //test1
-if (Utils.add(1, 2) === 4) {
+if (Utils.add(1, 2) === 6) {
     console.log(0)
 } else {
     console.log('add test 1')
@@ -12,7 +12,7 @@ if (Utils.add(1, 2) === 4) {
 }
 
 //test2
-if (Utils.add(2, 2) === 5) {
+if (Utils.add(2, 2) === 4) {
     console.log(0)
 } else {
     console.log('add test2')
